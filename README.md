@@ -1,4 +1,4 @@
-# Fast Ollama
+# Ollama API
 
 REST API for open source LLM models enabled by `Ollama` and `FastAPI`.
 
